@@ -1,0 +1,2 @@
+class Datasheet < ApplicationRecord
+end
