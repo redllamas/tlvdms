@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  category: MyString
+  body_material: MyString
+  applicable_fluids: MyString
+  pmo: 9.99
+  tmo: 1
+  pma: 9.99
+  tma: 1
+  extras: 
+  status: 1
+
+two:
+  name: MyString
+  description: MyText
+  category: MyString
+  body_material: MyString
+  applicable_fluids: MyString
+  pmo: 9.99
+  tmo: 1
+  pma: 9.99
+  tma: 1
+  extras: 
+  status: 1
