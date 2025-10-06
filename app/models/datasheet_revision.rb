@@ -1,6 +1,6 @@
 # app/models/datasheet_revision.rb
 class DatasheetRevision < ApplicationRecord
-  enum status: { draft: 0, active: 1, hidden: 2, discontinued: 3 }, _default: :active
+  enum :status, { draft: 0, active: 1, hidden: 2, discontinued: 3 }, default: :active
 
   belongs_to :datasheet
 
