@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  datasheet: one
+  region: MyString
+  locale: MyString
+  version: 1
+  body: MyText
+  source_template: MyString
+  render_params: 
+  status: 1
+  published_at: 2025-10-06 12:42:20
+
+two:
+  datasheet: two
+  region: MyString
+  locale: MyString
+  version: 1
+  body: MyText
+  source_template: MyString
+  render_params: 
+  status: 1
+  published_at: 2025-10-06 12:42:20
